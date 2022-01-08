@@ -1,0 +1,12 @@
+{
+  "name": "gerador_senhas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev":"electron ."
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.6"
+  }
+}
