@@ -1,4 +1,10 @@
+body{
+    background-color: #724be6;
+}
 
+h1,h2,p,span{
+    color: #fff;
+}
 #container{
     text-align: center;
     background-color: rgba(222, 216, 216, 0.681);
